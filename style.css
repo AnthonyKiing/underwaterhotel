@@ -1,0 +1,724 @@
+/*Home Design*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/homeback.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: top;
+background-size: auto;
+}
+
+a {
+color: white;
+text-decoration: none;
+padding-right: 30px;
+}
+
+.header nav ul {
+list-style-type: none;
+margin-top: -8px;
+margin-bottom: -34;
+margin-left: -15px;
+width: 906px;
+height: 23px;
+padding: 15px;
+overflow: hidden;
+background-color: #333;
+opacity: 0.7;
+}
+
+.header nav li {
+border-right:1px solid #bbb;
+}
+
+.header li:last-child {
+border-right: none;
+}
+
+.header nav li a {
+display: block;
+color: white;
+text-align: left;
+text-decoration: none;
+}
+
+.header nav li a:hover {
+color: black;
+}
+
+.row1 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: left;
+font-size: 20px;
+}
+
+.row2 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: right;
+font-size: 20px;
+}
+
+.hr {  
+background-color: white;
+width: 930px;
+height: 3px;
+margin-left: -17px;
+}
+
+.message {
+background-color: black;
+width: 937px;
+height: 90px;
+margin-left: -16px;
+margin-top: 372px;
+opacity: 0.8;
+}
+
+.box-home {
+border: 4px solid;
+border-color: white;
+width: 165px;
+margin-top: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-bottom: 20px;
+margin-left: -20px;
+-webkit-transition: .5s;
+}
+
+.box-home:hover {
+-webkit-transition: .5s;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+.pop-sign {
+color: white;
+font-size: 25px;
+text-decoration: none;
+}
+
+.homeadmin{
+background-color: #e7e6d9;
+width: 936px;
+height: 500px;
+margin-top: -25px;
+margin-left: 200px;
+}
+
+.hrline {
+background-color: white;
+width: 934px;
+margin-left: 200px;
+margin-top: -24px;
+}
+
+.theresort {
+color: white;
+background-color: black;
+width: 886px;
+opacity: 0.7;
+font-size: 25px;
+text-align: center;
+padding: 25px;
+}
+
+.msghome {
+color: white;
+background-color: black;
+width: 886px;
+opacity: 0.7;
+font-size: 20px;
+text-align: center;
+padding: 25px;
+}
+
+.enjoy-paradise {
+color: white;
+background-color: black;
+width: 886px;
+opacity: 0.7;
+font-size: 25px;
+text-align: center;
+padding: 25px;
+margin-left: -15px;
+margin-top: 310px;
+}
+
+#social-media {
+margin-right: 200px;
+margin-top: 100px;
+padding-top: 100px;
+}
+
+.image img {
+width: 30px;
+height: 30px;
+float: right;
+margin-right: 5px;
+border-radius: 50px;
+margin-top: -25px;
+}
+
+.sm li {
+display: inline-block;
+margin: 1px;
+height: 20px;
+width: 30px;
+float: right;
+margin-top: 18px;
+}
+
+.sm {
+background-color: #333;
+height: 50px;
+margin-bottom: -28px;
+margin-right: -200px;
+}
+
+.admin {
+float: left;
+margin-left: 12px;
+}
+
+/*Home End*/
+/*Login Design*/
+
+#reged {
+background-image: url(pics/bluredbg.jpg);
+background-repeat: no-repeat;
+width: 80%;
+height: 0 auto;
+background-position: center;
+background-size: cover;
+}
+
+#store {
+background-color: #24313c;
+height: 485px;
+width: 600px;
+margin-top: 200px;
+margin-left: 205px;
+border-radius: 3px;
+border: none;
+opacity: 0.8;
+position: relative;
+}
+
+#store2 {
+background-color: #24313c;
+height: 300px;
+width: 600px;
+margin-top: 230px;
+margin-left: 245px;
+border-radius: 3px;
+border: none;
+opacity: 0.8;
+}
+
+#store3 {
+background-color: #24313c;
+height: 300px;
+width: 600px;
+margin-top: 230px;
+margin-left: 240px;
+border-radius: 3px;
+border: none;
+opacity: 0.8;
+}
+
+.formed {
+height: 200px;
+width: 400px;
+background-size: auto;
+}
+
+.loged {		
+background-color: #435159;
+text-decoration: none;
+color: white;
+text-align: center;
+width: 594px;
+padding: 15px;
+text-align: center;
+font-size: 25px;
+margin-right: -212px;
+float: right;
+font-family: monospace;
+}
+
+.adminloged {        
+background-color: #435159;
+text-decoration: none;
+color: white;
+text-align: center;
+width: 594px;
+padding: 15px;
+text-align: center;
+font-size: 25px;
+margin-right: -112px;
+float: right;
+font-family: monospace;
+}
+
+#emailedlog {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 463px;
+height: 30px;
+margin-left: 65px;
+margin-top: 3px;
+font-size: 20px;
+}
+
+#passedlog {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 463px;
+height: 30px;
+margin-left: 65px;
+margin-top: 3px;
+font-size: 20px;
+}
+
+#usernameadmin {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 463px;
+height: 30px;
+margin-left: -30px;
+margin-top: 3px;
+font-size: 20px;
+}
+
+#passwordadmin {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 463px;
+height: 30px;
+margin-left: -30px;
+margin-top: 3px;
+font-size: 20px;
+}
+
+.subsign {  
+background-color: #1ab188;
+text-decoration: none;
+color: white;
+float: center;
+margin-left: -9px;
+width: 470px;
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 25px;
+border: none;
+}
+
+.sublog {  
+background-color: #1ab188;
+text-decoration: none;
+color: white;
+float: center;
+margin-left: 65px;
+width: 463px;
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 25px;
+border: none;
+}
+
+.subadmin {  
+background-color: #1ab188;
+text-decoration: none;
+color: white;
+float: center;
+margin-left: -30px;
+width: 463px;
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 25px;
+border: none;
+}
+
+/*Login End*/
+/*Sign-Up Design*/
+
+#reg {
+background-image: url(pics/bluredbg.jpg);
+background-repeat: no-repeat;
+width: 80%;
+height: 0 auto;
+background-position: center;
+background-size: cover;
+}
+
+#sign-log {
+width: 479px;
+height: 0 auto;
+}
+
+.sign {	
+background-color: #435159;
+text-decoration: none;
+color: white;
+float: left;
+width: 624px;
+font-size: 25px;
+margin-left: -72px;
+padding-bottom: 12px;
+padding-top: 12px;
+margin-bottom: -20px;
+font-family: monospace;
+}
+
+.signerror {
+background-color: red;
+width: 623px;
+height: 17px;
+margin-top: -6px;
+margin-left: -72px;
+}
+
+.signerror:empty {
+display: none;
+}
+
+.logerror {
+background-color: red;
+width: 623px;
+height: 17px;
+margin-top: -6px;
+margin-left: -11px;
+text-align: center;
+}
+
+.logerror:empty {
+display: none;
+}
+
+.aderror {
+background-color: red;
+width: 623px;
+height: 17px;
+margin-top: -6px;
+margin-left: -111px;
+text-align: center;
+}
+
+.aderror:empty {
+display: none;
+}
+
+.form {
+height: 300px;
+width: 400px;
+}
+
+.flname {
+width: 408px;
+height: 0 auto;
+}
+
+#first {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 220px;
+height: 30px;
+margin-top: 70px;
+font-size: 20px;
+margin-left: -10px;
+}
+
+#last {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 220px;
+height: 30px;
+margin-top: -50px;
+font-size: 20px;
+margin-left: -473px;
+}
+
+#fill {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 469px;
+height: 30px;
+margin-left: -10px;
+margin-top: 3px;
+font-size: 20px;
+}
+
+.account {
+color: white;
+float: left;
+margin-top: 10px;
+}
+
+.log {
+text-decoration: none;
+color: white;
+font-size: 18px;
+font-family: monospace;
+margin-left: 20px;
+padding: 5px;
+}
+
+/*Sign-Up End*/
+/*Popup Box*/
+
+.overlay {
+position: fixed;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background: rgba(0, 0, 0, 0.7);
+transition: opacity 500ms;
+visibility: hidden;
+opacity: 0;
+}
+
+.overlay:target {
+visibility: visible;
+opacity: 1;
+}
+
+.popupsign {
+margin-top: -90px;
+margin-left: -208px;
+}
+
+.popupsign .close {
+position: relative;
+top: 200px;
+right: -404px;
+font-size: 25px;
+font-weight: bold;
+text-decoration: none;
+color: white;
+padding: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-radius: 1px;
+font-family: sans-serif;
+}
+
+.popuplog {
+margin-top: -90px;
+margin-left: 115px;
+}
+
+.popuplog .close {
+position: relative;
+top: -30px;
+right: 355px;
+font-size: 25px;
+font-weight: bold;
+text-decoration: none;
+color: white;
+padding: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-radius: 1px;
+font-family: sans-serif;
+float: right;
+}
+
+.popupad {
+margin-top: -90px;
+margin-left: -208px;
+}
+
+.popupad .close {
+position: relative;
+float: right;
+top: -35px;
+right: 357px;
+font-size: 25px;
+font-weight: bold;
+text-decoration: none;
+color: white;
+padding: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-radius: 1px;
+font-family: sans-serif;
+}
+/*Popup Box End*/
+/*Log-Welcome Design*/
+
+ .welcome {
+color: white;
+font-size: 30px;
+text-align: center;
+ }
+
+.wel {
+font-family: monospace;
+background-color: #1ab188;
+padding: 15px;
+margin-left: -12px;
+margin-right: -12px;
+ }
+
+.continue {
+background-color: #435159;
+font-size: 22px;
+float: right;
+margin-right: -12px;
+margin-bottom: -10px;
+width: 128px;
+height: 0 auto;
+text-decoration: none;
+color: white;
+text-align: center;
+border-radius: 0px 0px 3px 0px;
+padding: 15px;
+font-family: monospace;
+}
+
+
+/*Log In Design*/
+
+
+#fnamed {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 220px;
+height: 30px;
+font-size: 20px;
+margin-left: 0px;
+}
+
+#lasted {
+color: white;
+background-color: transparent;
+padding: 3px;
+border: solid #80878e 1px;
+width: 220px;
+height: 30px;
+font-size: 20px;
+margin-left: -474px;
+}
+
+.log:hover {
+background-color: #1ab188;
+color: rgba(174, 224, 118, 1)
+}
+
+.sign:hover {
+background-color: #1ab188;
+color: rgba(174, 224, 118, 1)
+}
+
+
+#signin {		
+background-color: #435159;
+text-decoration: none;
+color: white;
+text-align: center;
+width: 500px;
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 25px;
+}
+
+#signin:hover {
+background-color: #1ab188;
+color: rgba(174, 224, 118, 1)
+}
+
+.loged:hover {
+background-color: #1ab188;
+}
+
+.adminloged:hover {
+background-color: #1ab188;
+}
+
+.continue:hover {
+background-color: #1ab188;
+color: rgba(174, 224, 118, 1)
+}
+
+#container {
+background-color: none;
+height: 0 auto;
+width: 650px;
+margin-left: -200px;
+border: none;
+}
+
+.booking {
+margin-top: -100px;
+}
+
+
+/*Log in End*/
+/*----------------------*/
+.check {
+margin-left: 315px;
+}
+
+.button {
+text-decoration: none;
+color: white;
+font-size: 25px;
+}
+
+.buttonad {
+text-decoration: none;
+color: #e7e6d9;
+font-size: 15px;
+position: relative;
+}
+
+.foot {
+background-color: #333;
+margin-top: 16px;
+margin-left: 199px;
+width: 936px;
+height: 25px;
+font-family: sans-serif;
+font-size: 10px;
+}
+
+.foo {
+text-align: center;
+margin-right: 50px;
+}
+
+.jeotin{
+color: orange;
+margin-left: 350px;
+margin-top: -11px; 
+}

@@ -1,0 +1,137 @@
+/*Home Design*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/homeback.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: top;
+background-size: auto;
+}
+
+a {
+color: white;
+text-decoration: none;
+padding-right: 30px;
+}
+
+.header nav ul {
+    list-style-type: none;
+    margin-top: -8px;
+    margin-bottom: -34;
+    margin-left: -17px;
+    width: 905px;
+    height: 23px;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #333;
+    opacity: 0.7;
+}
+
+.header nav li {
+    border-right:1px solid #bbb;
+}
+
+.header li:last-child {
+    border-right: none;
+}
+
+.header nav li a {
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+
+.header nav li a:hover {
+	color: black;
+}
+
+.row1 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: left;
+font-size: 20px;
+}
+
+.header2 {
+margin-right: -60px;
+}
+
+.row2 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: right;
+font-size: 20px;
+}
+
+.hr {  
+background-color: white;
+width: 930px;
+height: 3px;
+margin-left: -13px;
+}
+
+
+/*Content*/
+
+
+.enjoy-paradise {
+color: white;
+background-color: black;
+width: 886px;
+opacity: 0.7;
+font-size: 25px;
+text-align: center;
+padding: 25px;
+margin-left: -15px;
+margin-top: 371px;
+}
+
+/*Footer*/
+
+
+.homeadmin{
+background-color: #e7e6d9;
+width: 936px;
+height: 150px;
+margin-top: -99px;
+margin-left: -15px;
+}
+
+#social-media {
+margin-right: 200px;
+margin-top: 100px;
+padding-top: 100px;
+}
+
+.sm li {
+display: inline-block;
+margin: 1px;
+height: 20px;
+width: 30px;
+float: right;
+}
+
+.sm {
+background-color: #333;
+height: 166px;
+width: 936;
+margin-bottom: -28px;
+margin-right: -196px;
+opacity: 0.7;
+}
+
+.image img {
+width: 30px;
+height: 30px;
+float: right;
+margin-right: 5px;
+border-radius: 50px;
+margin-top: -25px;
+}

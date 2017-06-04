@@ -1,0 +1,72 @@
+/*Header Deisgn*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/background.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: center;
+background-size: auto;
+}
+
+.header {
+width: 700px;
+font-size: 25px;
+}
+
+.header1 {
+margin-left: -100px;
+}
+
+.row1 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: left;
+font-size: 20px;
+}
+
+.header2 {
+margin-right: -60px;
+}
+
+.row2 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: right;
+font-size: 20px;
+}
+
+.hr {  
+background-color: white;
+width: 930px;
+height: 3px;
+margin-left: -13px;
+}
+
+/*Header End*/
+
+.foot {
+background-color: #333;
+margin-top: 16px;
+margin-left: 199px;
+width: 936px;
+height: 25px;
+font-family: sans-serif;
+font-size: 10px;
+}
+
+.foo {
+text-align: center;
+margin-right: 50px;
+}
+
+.jeotin{
+color: orange;
+margin-left: 350px;
+margin-top: -11px; 
+}

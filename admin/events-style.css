@@ -1,0 +1,123 @@
+/*Header Deisgn*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/events.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: top;
+background-size: auto;
+}
+
+a {
+color: white;
+text-decoration: none;
+padding-right: 30px;
+}
+
+.header nav ul {
+    list-style-type: none;
+    margin-top: -8px;
+    margin-bottom: -34;
+    margin-left: -17px;
+    width: 905px;
+    height: 23px;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #333;
+    opacity: 0.7;
+}
+
+.header nav li {
+    border-right:1px solid #bbb;
+}
+
+.header li:last-child {
+    border-right: none;
+}
+
+.header nav li a {
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+
+.header nav li a:hover {
+	color: black;
+}
+
+.row1 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: left;
+font-size: 20px;
+}
+
+.header2 {
+margin-right: -60px;
+}
+
+.row2 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: right;
+font-size: 20px;
+}
+
+.hr {  
+background-color: white;
+width: 930px;
+height: 3px;
+margin-left: -13px;
+}
+
+.message {
+background-color: black;
+width: 937px;
+height: 90px;
+margin-left: -16px;
+margin-top: 372px;
+opacity: 0.8;
+}
+
+
+/*Header End*/
+/*Events*/
+
+
+.eventsmsg {
+color: white;
+background-color: black;
+width: 886px;
+margin-left: -16px;
+opacity: 0.7;
+font-size: 25px;
+text-align: left;
+padding: 25px;
+}
+
+.eventline {
+margin-top: -128px;
+margin-left: -565px;
+height: 100px;
+width: 10px;
+background-color: white;
+position: relative;
+opacity: 0.7;
+}
+
+.evmsg {
+color: white;
+opacity: 0.8;
+font-size: 15px;
+text-align: left;
+padding: 25px;
+margin-top: -110px;
+margin-left: 410px;
+}

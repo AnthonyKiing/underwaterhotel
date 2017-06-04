@@ -1,0 +1,176 @@
+/*Header Deisgn*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/aboutpic.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: top;
+background-size: auto;
+}
+
+a {
+color: white;
+text-decoration: none;
+padding-right: 30px;
+}
+
+.header nav ul {
+    list-style-type: none;
+    margin-top: -8px;
+    margin-bottom: -34;
+    margin-left: -17px;
+    width: 905px;
+    height: 23px;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #333;
+    opacity: 0.7;
+}
+
+.header nav li {
+    border-right:1px solid #bbb;
+}
+
+.header li:last-child {
+    border-right: none;
+}
+
+.header nav li a {
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+
+.header nav li a:hover {
+	color: black;
+}
+
+.row1 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: left;
+font-size: 20px;
+}
+
+.header2 {
+margin-right: -60px;
+}
+
+.row2 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: right;
+font-size: 20px;
+}
+
+.hr {  
+background-color: white;
+width: 930px;
+height: 3px;
+margin-left: -13px;
+}
+
+.message {
+background-color: black;
+width: 937px;
+height: 90px;
+margin-left: -16px;
+margin-top: 372px;
+opacity: 0.8;
+}
+
+
+/*Header End*/
+/*About*/
+
+
+.aboutmsg {
+color: white;
+background-color: black;
+width: 886px;
+margin-left: -16px;
+opacity: 0.7;
+font-size: 25px;
+text-align: left;
+padding: 25px;
+}
+
+.aboutline {
+margin-top: -143px;
+margin-left: -565px;
+height: 100px;
+width: 10px;
+background-color: white;
+position: relative;
+opacity: 0.7;
+}
+
+.abmsg {
+color: white;
+opacity: 0.8;
+font-size: 15px;
+text-align: left;
+padding: 25px;
+margin-top: -120px;
+margin-left: 400px;
+}
+
+.about2msg {
+color: white;
+background-color: black;
+width: 886px;
+margin-left: -16px;
+opacity: 0.7;
+font-size: 25px;
+text-align: left;
+padding: 25px;
+}
+
+.aboutline2 {
+margin-top: -100px;
+margin-left: -565px;
+height: 71px;
+width: 10px;
+background-color: white;
+position: relative;
+opacity: 0.7;
+}
+
+.abmsg2 {
+color: white;
+opacity: 0.8;
+font-size: 15px;
+text-align: left;
+padding: 25px;
+margin-top: -95px;
+margin-left: 400px;
+}
+
+.foot {
+background-color: #333;
+margin-top: 174px;
+margin-left: -15px;
+width: 936px;
+height: 25px;
+font-family: sans-serif;
+font-size: 10px;
+padding-top: 13px;
+}
+
+.foo {
+text-align: center;
+margin-right: 50px;
+}
+
+.jeotin{
+color: orange;
+margin-left: 350px;
+margin-top: -11px; 
+}

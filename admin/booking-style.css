@@ -1,0 +1,481 @@
+/*Header Deisgn*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/reception.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: top;
+background-size: auto;
+}
+
+a {
+color: white;
+text-decoration: none;
+padding-right: 30px;
+
+}
+
+.abook {
+color: white;
+text-decoration: none;
+padding-right: 30px;
+padding: 3px;
+}
+
+.header nav ul {
+    list-style-type: none;
+    margin-top: -8px;
+    margin-bottom: -34;
+    margin-left: -16px;
+    width: 906px;
+    height: 23px;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #333;
+    opacity: 0.7;
+}
+
+.header nav li {
+    border-right:1px solid #bbb;
+}
+
+.header li:last-child {
+    border-right: none;
+}
+
+.header nav li a {
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+
+.header nav li a:hover {
+	color: black;
+}
+
+.row1 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: left;
+font-size: 20px;
+}
+
+.header2 {
+margin-right: -60px;
+}
+
+.row2 {
+color: white;
+padding-left: 40px;
+text-decoration: none;
+float: right;
+font-size: 20px;
+}
+
+.hr {  
+background-color: white;
+width: 930px;
+height: 3px;
+margin-left: -13px;
+}
+
+.message {
+background-color: black;
+width: 937px;
+height: 90px;
+margin-left: -16px;
+margin-top: 372px;
+opacity: 0.8;
+}
+
+
+/*Header End*/
+/*Book*/
+
+
+.bookingmsg {
+color: white;
+background-color: black;
+width: 886px;
+margin-left: -16px;
+opacity: 0.7;
+font-size: 35px;
+text-align: left;
+padding: 25px;
+}
+
+.bookline {
+margin-top: -119px;
+margin-left: -525px;
+height: 80px;
+width: 10px;
+background-color: white;
+position: relative;
+opacity: 0.7;
+}
+
+.bookmsg {
+color: white;
+opacity: 0.8;
+font-size: 17px;
+text-align: left;
+padding: 25px;
+margin-top: -90px;
+margin-left: 415px;
+}
+
+.choosebooking {
+background-color: #e0d8c8;
+width: 850px;
+height: 50px;
+opacity: 0.7;
+margin-top: 282px;
+margin-left: -17px;
+}
+
+.checkrooms{
+margin-top: -50px;
+position:relative;
+}
+
+.checkavailability {
+background-color: #821616;
+width: 917px;
+padding: 10px;
+margin-bottom: 10px;
+margin-left: -17px; 
+opacity: 0.9;
+}
+
+.checkavailability a{
+font-weight: bold;
+color: white;
+position: relative;
+}
+
+
+/*Rooms*/
+
+
+.kindroom {
+background-color: #e7e6d9;
+width: 936px;
+height: 350px;
+margin-left: -16px;
+margin-top: -4px;
+}
+
+.reg {
+background-color: #56252b;
+width: 936px;
+height: 50px;
+margin-top: -349px;
+margin-left: -16px;
+opacity: .9;
+}
+
+.regroom {
+color: white;
+font-size: 30px;
+margin-top: -58px;
+margin-right: -34px;
+position: relative;
+}
+
+.regular img {
+width: 350px;
+height: 200px;
+margin-left: -580px;
+}
+
+.regline {
+margin-top: -222px;
+margin-left: -208px;
+height: 245px;
+width: 2px;
+background-color: black;
+position: relative;
+opacity: 0.7;
+}
+
+.avail {
+background-color: gray;
+width: 936px;
+height: 40px;
+border-color: gray;
+margin-top: -17px;
+margin-left: -16px;
+opacity: 0.7;
+}
+
+.booknow {
+width: 80px;
+border-style: solid; 
+border-color: white;
+margin-top: -50px;
+position: relative; 
+float: right;
+margin-right: 225px;
+margin-top: -48px;
+}
+
+.kindroom1 { 
+background-color: #e7e6d9;
+ width: 936px;
+height: 350px;
+margin-left: -16px;
+margin-top: -15px;
+}
+
+.reg1 {
+background-color: #56252b;
+width: 936px;
+height: 50px;
+margin-top: -349px;
+margin-left: -16px;
+opacity: .9;
+}
+
+.regroom1 {
+color: white;
+font-size: 30px;
+margin-top: -58px;
+margin-right: -34px;
+position: relative;
+}
+
+.regular1 img {
+width: 350px;
+height: 200px;
+margin-left: -580px;
+}
+
+.regline1 {
+margin-top: -222px;
+margin-left: -208px;
+height: 245px;
+width: 2px;
+background-color: black;
+position: relative;
+opacity: 0.7;
+}
+
+.avail1 {
+background-color: gray;
+width: 936px;
+height: 40px;
+border-color: gray;
+margin-top: -17px;
+margin-left: -16px;
+opacity: 0.7;
+}
+
+.kindroom2 {
+background-color: #e7e6d9;
+ width: 936px;
+height: 350px;
+margin-left: -16px;
+margin-top: -15px;
+}
+
+.reg2 {
+background-color: #56252b;
+width: 936px;
+height: 50px;
+margin-top: -349px;
+margin-left: -16px;
+opacity: .9;
+}
+
+.regroom2 {
+color: white;
+font-size: 30px;
+margin-top: -58px;
+margin-right: -34px;
+position: relative;
+}
+
+.regular2 img {
+width: 350px;
+height: 200px;
+margin-left: -580px;
+}
+
+.regline2 {
+margin-top: -222px;
+margin-left: -208px;
+height: 245px;
+width: 2px;
+background-color: black;
+position: relative;
+opacity: 0.7;
+}
+
+.avail2 {
+background-color: gray;
+width: 936px;
+height: 40px;
+border-color: gray;
+margin-top: -17px;
+margin-left: -16px;
+opacity: 0.7;
+}
+
+.kindroom3 {
+background-color: #e7e6d9;
+width: 936px;
+height: 350px;
+margin-left: -16px;
+margin-top: -15px;
+}
+
+.reg3 {
+background-color: #56252b;
+width: 936px;
+height: 50px;
+margin-top: -349px;
+margin-left: -16px;
+opacity: .9;
+}
+
+.regroom3 {
+color: white;
+font-size: 30px;
+margin-top: -58px;
+margin-right: -34px;
+position: relative;
+}
+
+.regular3 img {
+width: 350px;
+height: 200px;
+margin-left: -580px;
+}
+
+.regline3 {
+margin-top: -222px;
+margin-left: -208px;
+height: 245px;
+width: 2px;
+background-color: black;
+position: relative;
+opacity: 0.7;
+}
+
+.avail3 {
+background-color: gray;
+width: 936px;
+height: 40px;
+border-color: gray;
+margin-top: -17px;
+margin-left: -16px;
+opacity: 0.7;
+}
+
+.kindroom4 {
+background-color: #e7e6d9;
+ width: 936px;
+height: 350px;
+margin-left: -16px;
+margin-top: -15px;
+}
+
+.reg4 {
+background-color: #56252b;
+width: 936px;
+height: 50px;
+margin-top: -349px;
+margin-left: -16px;
+opacity: .9;
+}
+
+.regroom4 {
+color: white;
+font-size: 30px;
+margin-top: -58px;
+margin-right: -34px;
+position: relative;
+}
+
+.regular4 img {
+width: 350px;
+height: 200px;
+margin-left: -580px;
+}
+
+.regline4 {
+margin-top: -222px;
+margin-left: -208px;
+height: 245px;
+width: 2px;
+background-color: black;
+position: relative;
+opacity: 0.7;
+}
+
+.avail4 {
+background-color: gray;
+width: 936px;
+height: 40px;
+border-color: gray;
+margin-top: -17px;
+margin-left: -16px;
+opacity: 0.7;
+}
+
+.kindroom5 {
+background-color: #e7e6d9;
+width: 936px;
+height: 350px;
+margin-left: -16px;
+margin-top: -15px;
+}
+
+.reg5 {
+background-color: #56252b;
+width: 936px;
+height: 50px;
+margin-top: -349px;
+margin-left: -16px;
+opacity: .9;
+}
+
+.regroom5 {
+color: white;
+font-size: 30px;
+margin-top: -58px;
+margin-right: -34px;
+position: relative;
+}
+
+.regular5 img {
+width: 350px;
+height: 200px;
+margin-left: -580px;
+}
+
+.regline5 { 
+margin-top: -222px;
+margin-left: -208px;
+height: 245px;
+width: 2px;
+background-color: black;
+position: relative;
+opacity: 0.7;
+}
+
+.avail5 {
+background-color: gray;
+width: 936px;
+height: 40px;
+border-color: gray;
+margin-top: -17px;
+margin-left: -16px;
+opacity: 0.7;
+}

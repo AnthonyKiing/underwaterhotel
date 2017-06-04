@@ -1,0 +1,57 @@
+/*Header Deisgn*/
+
+body {
+background-color: #24313c;
+}
+
+#all {
+background-image: url(pics/checkback1.jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-position: center;
+background-size: auto;
+}
+
+table {
+border: 2px solid white;
+padding: 3px;
+}
+
+.td {
+border: 2px solid white;
+padding: 10px;
+}
+
+#tab {
+height: 539px;
+width: 936px;
+margin-top: -50px;
+margin-left: -16px;
+}
+
+.back {
+color: white;
+text-decoration: none;
+font-size: 65px;
+margin-left: 35px;
+}
+
+.schedule{
+opacity: 0.5;
+background-color: black;
+color: white;
+padding: 15px;
+font-size: 25px;
+margin-top: 127px;
+}
+
+table, th, td {
+border: 1px solid white ;
+border-collapse: collapse;
+}
+
+th, td {
+color: white;
+padding: 2px;
+text-align: center;    
+}
